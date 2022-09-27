@@ -1,3 +1,4 @@
+#https://python-reference.readthedocs.io/en/latest/docs/str/ASCII.html
 def decToP(n, p):
 	ans = []
 	while n > 0:
